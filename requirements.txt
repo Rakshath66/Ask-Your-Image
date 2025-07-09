@@ -1,22 +1,5 @@
-# 🔹 Core app + UI
 streamlit
-python-dotenv
-
-# 🔹 LangChain framework + tool integrations
-langchain
-langchain-community
-langchain-openai
-langchain-tavily
-langchain-experimental
-
-# 🔹 LLM APIs
-openai
-
-# 🔹 Tools: Wikipedia, Web, Calculator, etc.
-wikipedia
-
-# 🔹 PDF summarization (PyMuPDF + fitz alias)
-PyMuPDF
-
-# 🔹 Optional: Embedding support
-sentence-transformers
+torch
+transformers
+Pillow
+reportlab
