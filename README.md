@@ -146,7 +146,7 @@ Feel free to open issues or suggest features!
 
 ---
 
-### 🧑‍💻 Built by [Rakshath U Shetty](https://github.com/rakshath66)
+### 🧑‍💻 Built by [Rakshath U Shetty](https://www.linkedin.com/in/rakshathushetty/)
 
 * AI projects for learning & real use
 * Always open for contributions and ideas
