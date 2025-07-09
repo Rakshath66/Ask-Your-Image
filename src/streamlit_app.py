@@ -36,7 +36,7 @@ st.markdown(
         text-align: center;
         padding: 1rem 0;
     ">
-         Ask Your Image
+         💡 Ask Your Image
     </h1>
     """,
     unsafe_allow_html=True
@@ -60,8 +60,11 @@ with st.expander("⚠️ &nbsp;  Technology Used &nbsp;  ⚠️ ", expanded=Fals
     Technology Used:
     - 📄 BLIP
     - 🌐 ViT
-    - 🧮 OpenCV, PIL
+    - 🧮 OpenCV
+    - 🎨 PIL
+    - 📝 ReportLab
     - 📚 Streamlit
+    - 💡 Transformers
 
     ---
     ### ✅ Example Questions:
